@@ -1,0 +1,62 @@
+.roboto-mono-l{
+    font-weight: 100;
+    font-family: 'Roboto Mono', monospace;
+}
+.roboto-mono-t{
+    font-weight: 300;
+    font-family: 'Roboto Mono', monospace;
+}
+.roboto-mono{
+    font-weight: 400;
+    font-family: 'Roboto Mono', monospace;
+}
+.roboto-mono-m{
+    font-weight: 500;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.lato-l{
+    font-weight: 100;
+    font-family: 'Lato', monospace;
+}
+.lato-t{
+    font-weight: 300;
+    font-family: 'Lato', monospace;
+}
+.lato{
+    font-weight: 400;
+    font-family: 'Lato', monospace;
+}
+.lato-m{
+    font-weight: 500;
+    font-family: 'Lato', monospace;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+.hide-overflow{
+    overflow: hidden;
+}
+#couch {
+  background: url(../images/couch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+#chairs {
+  background: url(../images/chairs.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#table {
+  background: url(../images/table.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#shop {
+  background: url(../images/shop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
